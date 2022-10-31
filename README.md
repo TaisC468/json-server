@@ -1,2 +1,0 @@
-# testejson-server
-Projeto jsonserver

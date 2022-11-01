@@ -72,5 +72,42 @@
     "preco": 2.5,
     "categoria_id": 2
 }
+],
+"Sobremesas": [
+{
+    "id": 1,
+    "nome": "Cake-de-chocolate",
+    "descricao": "",
+    "preco": 5.5,
+    "categoria_id": 2
+},
+{
+    "id": 2,
+    "nome": "Cake-de-morango",
+    "descricao": "",
+    "preco": 5.5,
+    "categoria_id": 2
+},
+{
+    "id": 3,
+    "nome": "Cake-de-maracuja",
+    "descricao": "",
+    "preco": 5.5,
+    "categoria_id": 2
+},
+{
+    "id": 4,
+    "nome": "Cake-cereja",
+    "descricao": "",
+    "preco": 5.5,
+    "categoria_id": 2
+},
+{
+    "id": 4,
+    "nome": "Cake-baunilha",
+    "descricao": "",
+    "preco": 5.5,
+    "categoria_id": 2
+}
 ]
 }

@@ -54,7 +54,7 @@
 {
     "id": 3,
     "nome": "Fanta 600ml",
-    "descricao": "Sabor uva.",
+    "descricao": "Sabor uva",
     "preco": 7.99,
     "categoria_id": 2
 },
@@ -68,7 +68,9 @@
 {
     "id": 5,
     "nome": "Água 500ml",
-    "descricao": "Sem gás.",
+    "descricao": "Sem gás",
     "preco": 2.5,
     "categoria_id": 2
-}]}
+}
+]
+}

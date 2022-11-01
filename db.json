@@ -79,35 +79,35 @@
     "nome": "CupCake de Chocolate",
     "descricao": "Cupcake recheado de chocolate com cobertura de chocolate e decorado com cereja.",
     "preco": 5.5,
-    "categoria_id": 2
+    "categoria_id": 3
 },
 {
     "id": 2,
     "nome": "Cake-de-morango",
     "descricao": "Cupcake recheado de morango com cobertura artificial de morango.",
     "preco": 5.5,
-    "categoria_id": 2
+    "categoria_id": 3
 },
 {
     "id": 3,
     "nome": "Mousse-de-Limão",
     "descricao": "Mousse de limão decorado com raspas de limão.",
     "preco": 6.5,
-    "categoria_id": 2
+    "categoria_id": 3
 },
 {
     "id": 4,
     "nome": "Pudim",
     "descricao": "Pudim de leite condensado",
     "preco": 6.5,
-    "categoria_id": 2
+    "categoria_id": 3
 },
 {
     "id": 4,
     "nome": "Torta-de-Banana",
     "descricao": "Torta de banana com canela.",
     "preco": 7.5,
-    "categoria_id": 2
+    "categoria_id": 3
 }
 ]
 }

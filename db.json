@@ -39,36 +39,36 @@
 "Bebidas": [
 {
     "id": 1,
-    "nome": "Coca cola 350ml",
-    "descricao": "",
+    "nome": "Coca-cola pequena",
+    "descricao": "Refrigerante coca-cola 350ml",
     "preco": 5.5,
     "categoria_id": 2
 },
 {
     "id": 2,
-    "nome": "Coca cola 600ml",
-    "descricao": "",
+    "nome": "Coca cola grande",
+    "descricao": "Refrigerante coca-cola 600ml",
     "preco": 8.99,
     "categoria_id": 2
 },
 {
     "id": 3,
-    "nome": "Fanta-Uva 600ml",
-    "descricao": "",
+    "nome": "Fanta-Uva",
+    "descricao": "Refrigerante Fanta Uva 600ml ",
     "preco": 7.99,
     "categoria_id": 2
 },
 {
     "id": 4,
-    "nome": "Chá-Verde 350ml",
-    "descricao": "",
+    "nome": "Chá-Verde",
+    "descricao": "Chá-Verde 350ml",
     "preco": 4.99,
     "categoria_id": 2 
 },
 {
     "id": 5,
-    "nome": "Água 500ml",
-    "descricao": "",
+    "nome": "Água",
+    "descricao": "Água sem gás 500ml",
     "preco": 2.5,
     "categoria_id": 2
 }
@@ -76,37 +76,37 @@
 "Sobremesas": [
 {
     "id": 1,
-    "nome": "Cake-de-chocolate",
-    "descricao": "",
+    "nome": "CupCake de Chocolate",
+    "descricao": "Cupcake recheado de chocolate com cobertura de chocolate e decorado com cereja.",
     "preco": 5.5,
     "categoria_id": 2
 },
 {
     "id": 2,
     "nome": "Cake-de-morango",
-    "descricao": "",
+    "descricao": "Cupcake recheado de morango com cobertura artificial de morango.",
     "preco": 5.5,
     "categoria_id": 2
 },
 {
     "id": 3,
-    "nome": "Cake-de-maracuja",
-    "descricao": "",
-    "preco": 5.5,
+    "nome": "Mousse-de-Limão",
+    "descricao": "Mousse de limão decorado com raspas de limão.",
+    "preco": 6.5,
     "categoria_id": 2
 },
 {
     "id": 4,
-    "nome": "Cake-cereja",
-    "descricao": "",
-    "preco": 5.5,
+    "nome": "Pudim",
+    "descricao": "Pudim de leite condensado",
+    "preco": 6.5,
     "categoria_id": 2
 },
 {
     "id": 4,
-    "nome": "Cake-baunilha",
-    "descricao": "",
-    "preco": 5.5,
+    "nome": "Torta-de-Banana",
+    "descricao": "Torta de banana com canela.",
+    "preco": 7.5,
     "categoria_id": 2
 }
 ]

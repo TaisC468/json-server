@@ -1,7 +1,7 @@
 <h1> JSON-SERVER</h1>
 <hr>
   <p><b>Link do servidor hospedado:</b><p>
-  <p> https://json-server-modulo3-k2op.onrender.com </p>
+  <p> https://json-server-modulo3-xowo.onrender.com </p>
 <hr>
   <p>Projeto da Resilia onde preciso desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o GET, POST, PUT, DELETE.</p>
 
